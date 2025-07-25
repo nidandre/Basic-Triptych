@@ -1,5 +1,5 @@
-# Basic-Triptych
-Basic template card to learn English vocabulary with both a British and an American MP3
+# Anki Basic-Triptych
+Basic Anki template card to learn English vocabulary with both a British and an American MP3
 
 
 Here is an example of my basic template card to learn English vocabulary with both a British and an American Mp3.

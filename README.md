@@ -6,11 +6,11 @@ Here is an example of my basic template card to learn English vocabulary with bo
 
 There are 3 cards :
 
-From French word to English word and Mp3s : abeille ? -> bee + sounds of bee
+- From French word to English word and Mp3s : abeille ? -> bee + sounds of bee
 
-From English word to French word and MP3s : bee ? -> abeille + sound of bee
+- From English word to French word and MP3s : bee ? -> abeille + sound of bee
 
-From MP3s to English and French words : sounds of bee ? -> abeille + bee
+- From MP3s to English and French words : sounds of bee ? -> abeille + bee
 
 ![Basic-Triptych](https://github.com/user-attachments/assets/e8e3452c-0768-421c-a406-11ea14bf9c24)
 
